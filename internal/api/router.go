@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/luwa07832/feature-flag-service/internal/store"
+	"github.com/xjeey8iust/sen-key-rotation-vault/internal/store"
 )
 
 // NewRouter wires the public HTTP surface. Only the health entry is published today; the service

@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/luwa07832/feature-flag-service/internal/store"
+	"github.com/xjeey8iust/sen-key-rotation-vault/internal/store"
 )
 
 func TestHealthzReportsOK(t *testing.T) {
